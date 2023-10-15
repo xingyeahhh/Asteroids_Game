@@ -1,6 +1,6 @@
 # Asteroids_Game
  A classic arcade video game which player controls a spaceship in an asteroid field to destroy incoming asteroids.
-[![Video Preview](URL_OF_PREVIEW_IMAGE)](https://github.com/xingyeahhh/Asteroids_Game/blob/1d288279fe9c983a3d3b50927e0073a720e9c5fe/Asteroids-Menu%202023-04-23%2000-39-02.mp4)
+[![Video Preview](https://github.com/xingyeahhh/Asteroids_Game/assets/123461462/f207306a-b3f6-44cc-9279-41950bae5d1d)](https://github.com/xingyeahhh/Asteroids_Game/blob/1d288279fe9c983a3d3b50927e0073a720e9c5fe/Asteroids-Menu%202023-04-23%2000-39-02.mp4)
 ### Class AND Method:
 ![image](https://github.com/xingyeahhh/Asteroids_Game/assets/123461462/82663200-a82f-4cb5-9646-fd4ce0c71e8d)
 
