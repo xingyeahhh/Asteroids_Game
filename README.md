@@ -1,5 +1,6 @@
 # Asteroids_Game
  A classic arcade video game which player controls a spaceship in an asteroid field to destroy incoming asteroids.
+## CLASS AND METHODS 
+![image](https://github.com/xingyeahhh/Asteroids_Game/assets/123461462/82663200-a82f-4cb5-9646-fd4ce0c71e8d)
 
- ![image](https://github.com/xingyeahhh/Asteroids_Game/assets/123461462/2b5764b4-dc94-48b9-adfa-4b7c805d159c)
 
